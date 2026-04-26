@@ -1,0 +1,1 @@
+# divvydiary-userscript
